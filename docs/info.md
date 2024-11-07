@@ -13,7 +13,7 @@ This is a three bit binary counter that is shown on the segment display. Counts 
 
 ## How to test
 
-Use the input pins (only pins 6-8) to count from 0 to 8.
+Use the input pins (only pins 6-8) to count from 0 to 7.
 
 ## External hardware
 
