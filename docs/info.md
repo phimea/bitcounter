@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a three bit binary counter that is shown on the segment display. Counts from 0 to 8 with binary input.
 
 ## How to test
 
-Explain how to use your project
+Use the input pins (only pins 6-8) to count from 0 to 8.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Used segment display and 8 pin switch.
